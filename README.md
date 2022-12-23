@@ -2,13 +2,13 @@
 
 This is a Ruby gem for [Sonic Pi](https://sonic-pi.net/) which adds functionality for musical metre and probabilistic micro-timing. This is an alternative way of playing music to using Sonic Pi's typical `play` and `sleep` commands. The implementation of metre has been designed to be very generalisable to allow almost any metrical hierarchy to be represented.
 
-For more details about this project and its implementation, see the [bibliography](#bibliography).
+For more details about this project and its implementation, see the [bibliography](#bibliography). The Ruby gem can be found on [RubyGems](https://rubygems.org/gems/sonicpi-metre).
 
 
 
 ## Installation
 
-If you installed Sonic Pi from the official installer, you can install this gem with:
+If you installed Sonic Pi from the official installer, you can install this gem by running the following command (as an administrator):
 ```shell
 <SONIC-PI-INSTALL-DIR>/app/server/native/ruby/bin/gem install sonicpi-metre
 ```
