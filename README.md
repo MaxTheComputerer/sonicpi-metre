@@ -2,7 +2,7 @@
 
 This is a Ruby gem for [Sonic Pi](https://sonic-pi.net/) which adds functionality for musical metre and probabilistic micro-timing. This is an alternative way of playing music to using Sonic Pi's typical `play` and `sleep` commands. The implementation of metre has been designed to be very generalisable to allow almost any metrical hierarchy to be represented.
 
-For more details about this project and its implementation, see the [bibliography](#bibliography). The Ruby gem can be found on [RubyGems](https://rubygems.org/gems/sonicpi-metre).
+The Ruby gem can be found on [RubyGems](https://rubygems.org/gems/sonicpi-metre).
 
 
 
@@ -150,8 +150,3 @@ Same as `add_note` but will play a sample using Sonic Pi's `sample` command.
 
 Adds a rest (a period of silence) of the specified length.
 
-
-
-## Bibliography
-
-Max Johnson. 'Musical micro-timing for live coding'. Unpublished ([link](https://drive.google.com/file/d/1Byb34UJcfVdJHtfZZG4mBEbyRg7_LT2M/view?usp=sharing)).
