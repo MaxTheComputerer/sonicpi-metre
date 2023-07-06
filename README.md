@@ -43,6 +43,10 @@ To use this, the desired style is passed as an optional second argument to `use_
 use_metre '3/4', :viennese_waltz
 ```
 
+## Demos
+
+Coming soon...
+
 
 ## Documentation
 
