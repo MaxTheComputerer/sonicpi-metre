@@ -43,10 +43,6 @@ To use this, the desired style is passed as an optional second argument to `use_
 use_metre '3/4', :viennese_waltz
 ```
 
-## Demos
-
-Coming soon...
-
 
 ## Documentation
 
@@ -156,5 +152,10 @@ Adds a rest (a period of silence) of the specified length.
 
 
 ## Bibilography
+
+Full details can be found in the paper:
+
+M. Johnson and M. Gotham, “Musical Micro-Timing for Live Coding”, in _Proc. of the 24th Int. Society for Music Information Retrieval Conf._, Milan, Italy, 2023. https://archives.ismir.net/ismir2023/paper/000010.pdf
+
 
 The code used to derive the micro-timing found in the preset Styles can be found [here](https://github.com/MaxTheComputerer/micro-timing-data-analysis).
